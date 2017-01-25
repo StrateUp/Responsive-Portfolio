@@ -1,0 +1,33 @@
+.container{
+	width: 640px;
+	margin: 0 auto;
+}
+.kstrate{
+	display: block;
+	padding:20px;
+	background-color: #4aaaa5;
+	color:white;
+	height:100%;
+	width:100%;
+	text-align: center;
+}
+header .links{
+	text-align: center;
+	width: 100%; 
+	font-size: 18px;
+	padding: 40px 20px 20px 20px;
+	background-color: white;
+	border-bottom: 3px solid #cccccc;
+	
+}
+li{
+	display: inline-block;
+}
+#AboutMe{
+	width:100%;
+	margin: 10px;
+}
+#connect{
+	width:100%;
+	margin: 10px;
+}

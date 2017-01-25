@@ -1,0 +1,22 @@
+.container{
+	width: 980px;
+	margin: 0 auto;
+}
+
+.links{
+	
+	
+	float: right;
+	display: inline-block;
+	font-size: 20px;
+	padding-top: 20px;
+}
+li{
+	display: inline-block;
+}
+.profilepic{
+	top: 10px;
+	height: 250px;
+	width: 100%;
+
+}
